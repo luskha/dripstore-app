@@ -6,7 +6,7 @@ import db from './models/index.js'
 
 const app = express()
 
-const HOST = 'localhost'
+const HOST = '127.0.0.1'
 const PORT = 5000
 
 connection()
